@@ -1,5 +1,6 @@
 # Mi primer repositorio
 Este proyecto sirve para practicar Git.
 ## Instalación
-Instrucciones pendientes.
-Cambio propuesto
+Instrucciones pendientes. <br>
+Cambio propuesto <br>
+Editado desde Codespaces
